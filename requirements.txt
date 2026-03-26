@@ -1,0 +1,6 @@
+# Alpha paradigm: LSL stream + CSV logging + optional Arduino (pyserial)
+pylsl>=1.16.0
+numpy>=1.20.0
+scipy>=1.7.0
+pyserial>=3.5
+matplotlib>=3.8.0

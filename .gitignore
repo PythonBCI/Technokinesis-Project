@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Saved EEG / calibration logs (can get large)
+paradigm_logs/
+
+# BlueMuse installer payloads / large vendor files
+BlueMuse_2.4.0.0/
+
+# Local editor state
+.cursor/
+*.swp
+*.swo
+
